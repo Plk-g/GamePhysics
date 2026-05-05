@@ -1,0 +1,92 @@
+# ===========================
+# UNITY GENERATED FOLDERS
+# ===========================
+
+# The Library folder is Unity's local cache — auto-generated on project open.
+# Never commit this. It's huge and machine-specific.
+[Ll]ibrary/
+
+# Temp folder used during builds and play mode
+[Tt]emp/
+
+# Build output folder
+[Oo]bj/
+
+# Actual built executables/apps go here
+[Bb]uild/
+[Bb]uilds/
+
+# Asset Store download cache
+AssetStoreTools*
+
+# Unity's internal logs
+Logs/
+
+# ===========================
+# UNITY METADATA
+# ===========================
+
+# Unity auto-generates .meta files for every asset.
+# You DO want to commit these — they store GUIDs that link assets together.
+# DO NOT add *.meta here.
+
+# ===========================
+# VISUAL STUDIO / RIDER / VSCODE
+# ===========================
+
+# IDE-generated project files — Unity regenerates these automatically
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS/Rider local settings
+.vs/
+.idea/
+*.swp
+
+# ===========================
+# OS GENERATED FILES
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Linux
+*~
+
+# ===========================
+# CRASH / DEBUG LOGS
+# ===========================
+crashlytics-build.properties
+sysinfo.txt
+
+# ===========================
+# UNITY PACKAGES (OPTIONAL)
+# ===========================
+
+# Uncomment the line below if you want to exclude auto-downloaded packages
+# (only safe if you have a Packages/manifest.json — which Unity uses to restore them)
+# [Pp]ackages/
+
+# ===========================
+# BUILD ARTIFACTS
+# ===========================
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+*.app
